@@ -1,0 +1,9 @@
+name: MTunes
+version: 1.0-SNAPSHOT
+main: mtunes.MTunes
+commands:
+   soundtest:
+      description: This is a demo command.
+      usage: /<command> [player]
+      permission: tutorialplugin.basic
+      permission-message: You don't have <permission>
